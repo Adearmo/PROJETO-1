@@ -1,3 +1,4 @@
 git add --all //salvando as alteracoes
 git commit -m "texto eplicando a modificacao" //subindo as modificacoes
 git pull origin master //puxando o arquivo da net
+teste
