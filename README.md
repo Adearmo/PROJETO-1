@@ -1,3 +1,4 @@
 # PROJETO-1
 
-Reaprendedo a a programacao..resolvir recomecar utilizado a liguagem de programacao PHP
+Reaprendendo a programar ,resolvi utilizar a linguagem de programação PHP.
+guardando aqui matérias para estudo e alguns códigos.
